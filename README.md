@@ -9,4 +9,9 @@ The easiest way to do this on Windows is to install the [WinPython distribution]
 This has Jupyter notebooks and most scientific packages pre-installed along with a working Python interpreter.
 Launch Jupyter using the shortcut in the WinPython install directory.
 
-On Linux, simply install the packages via your favourite package manaer.
+On Linux, simply install the packages via your favourite package manager.
+
+Once a working Python distribution is installed, use pip to install libraries, such as
+```
+pip install nmrglue
+```
